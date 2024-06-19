@@ -1,3 +1,5 @@
+package list.operacoes_basicas;
+
 public class principal {
     public static void main(String[] args) {
         CarrinhoDeCompras carrinhoDeCompras = new CarrinhoDeCompras();
