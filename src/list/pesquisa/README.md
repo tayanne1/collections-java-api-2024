@@ -26,8 +26,3 @@ Este projeto consiste em classes Java para manipular uma lista de números intei
 ## Exceções
 Os métodos `encontrarMaiorNumero()` e `encontrarMenorNumero()` lançam uma `RuntimeException` se a lista estiver vazia.
 
-## Autor
-[Seu Nome]
-
-## Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE).

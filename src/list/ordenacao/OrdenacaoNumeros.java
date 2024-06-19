@@ -7,8 +7,8 @@ import java.util.List;
 public class OrdenacaoNumeros {
     private List<Integer> ordenacaoList;
 
-    public OrdenacaoNumeros(List<Integer> ordenacaoList) {
-        this.ordenacaoList = ordenacaoList;
+    public OrdenacaoNumeros(List<Integer> numeros) {
+        this.ordenacaoList = new ArrayList<>();
     }
 
     public void adicionarNumero(int numero){
